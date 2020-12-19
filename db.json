@@ -11,7 +11,7 @@
       "password": "Udfo35F!",
       "secret_word": "traffic",
       "created_at": "12.05.2017",
-      "updated_at": "14.09.2020",
+      "updated_at": "14.09.2020"
     },
     {
       "id": "2",
@@ -24,7 +24,7 @@
       "password": "99Hjr5?",
       "secret_word": "future",
       "created_at": "30.05.2017",
-      "updated_at": "14.09.2020",
+      "updated_at": "14.09.2020"
     },
     {
       "id": "3",
@@ -37,7 +37,7 @@
       "password": "g*kflEg",
       "secret_word": "signal",
       "created_at": "23.06.2017",
-      "updated_at": "07.08.2018",
+      "updated_at": "07.08.2018"
     },
     {
       "id": "4",
@@ -50,7 +50,7 @@
       "password": ":pf&8sk9",
       "secret_word": "yesterday",
       "created_at": "24.06.2017",
-      "updated_at": "07.12.2017",
+      "updated_at": "07.12.2017"
     },
     {
       "id": "5",
@@ -63,7 +63,7 @@
       "password": "&Hfye5!",
       "secret_word": "information",
       "created_at": "14.09.2018",
-      "updated_at": "03.05.2020",
+      "updated_at": "03.05.2020"
     },
     {
       "id": "6",
@@ -76,7 +76,7 @@
       "password": "%fgoIw82",
       "secret_word": "morning",
       "created_at": "05.09.2018",
-      "updated_at": "21.03.2019",
+      "updated_at": "21.03.2019"
     },
     {
       "id": "7",
@@ -89,7 +89,7 @@
       "password": "Ud*5jw1",
       "secret_word": "space",
       "created_at": "15.11.2018",
-      "updated_at": "06.04.2020",
+      "updated_at": "06.04.2020"
     },
     {
       "id": "8",
@@ -102,7 +102,7 @@
       "password": "iU84&hs",
       "secret_word": "aviation",
       "created_at": "09.02.2019",
-      "updated_at": "14.09.2020",
+      "updated_at": "14.09.2020"
     },
     {
       "id": "9",
@@ -115,7 +115,7 @@
       "password": "9UjfG^3",
       "secret_word": "human",
       "created_at": "30.03.2019",
-      "updated_at": "01.02.2020",
+      "updated_at": "01.02.2020"
     },
     {
       "id": "10",
@@ -128,7 +128,7 @@
       "password": "H*ddfhw3",
       "secret_word": "holiday",
       "created_at": "03.06.2020",
-      "updated_at": "17.11.2020",
+      "updated_at": "17.11.2020"
     }
   ]
 }
