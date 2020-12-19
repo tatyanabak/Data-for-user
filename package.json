@@ -1,0 +1,22 @@
+{
+  "name": "data-for-users",
+  "version": "1.0.0",
+  "description": "Fake json REST API",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatyanabak/Data-for-user.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatyanabak/Data-for-user/issues"
+  },
+  "homepage": "https://github.com/tatyanabak/Data-for-user#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
